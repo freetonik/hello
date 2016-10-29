@@ -1,9 +1,9 @@
 # Site settings
-title:       "Блог Рахима Давлеткалиева"
+title:       "Rakhim's blog"
 header_title: "Rakh.im"
 email:       freetonik@gmail.com
-author:      Рахим Давлеткалиев
-description: "Блог Рахима Давлеткалиева"
+author:      Rakhim Davletkaliyev
+description: "Rakhim's blog"
 baseurl:     ""
 url:         "https://rakh.im"
 date_format: "%-d.%m.%Y"
