@@ -10,7 +10,7 @@ Typora is a minimalistic Markdown editor with a twist: it seamlessly switches be
 
 This is how it works:
 
-<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/EkDubYh0Hn0?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container mb3"><iframe width="560" height="420" src="https://www.youtube.com/embed/EkDubYh0Hn0?color=white&theme=light&rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
 
 ### Editing
 
