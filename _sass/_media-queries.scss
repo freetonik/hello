@@ -1,3 +1,19 @@
+// phones
+@media screen and (max-device-width: $viewport-small) {
+  h1,
+  .h1 {
+    font-size: $h1-narrow;
+  }
+
+  ol, ul {
+    padding-left: 1.2rem;
+  }
+
+  .intro {
+    padding: 1.25rem;
+  }
+}
+
 @media screen and (min-width: $viewport-small) {
   html {
     font-size: 16px;
