@@ -15,10 +15,6 @@
 }
 
 @media screen and (min-width: $viewport-small) {
-  html {
-    font-size: 16px;
-  }
-
   h1,
   .h1 {
     font-size: $h1;
@@ -63,10 +59,6 @@
 }
 
 @media screen and (min-width: $viewport-medium) {
-  html {
-    font-size: 18px;
-  }
-
   .post .post-floating-video {
     float: left;
     padding-right: 1em;
